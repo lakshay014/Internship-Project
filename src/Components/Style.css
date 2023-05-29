@@ -1,0 +1,23 @@
+.containeer{
+    margin:5%;
+    border: 2px solid black;
+}
+
+table, th, td {
+    border: 1px solid black;
+  }
+
+  table{
+    text-align: center;
+  }
+
+  #left
+  {
+    text-align:left;
+    margin-left: 4%;
+}
+
+.center{
+      margin-left:15%;
+
+  }
